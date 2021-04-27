@@ -51,7 +51,7 @@ const questions = () =>{
         type: 'list',
         message: 'Choose the license for your project.',
         name: 'licenses',
-        choices: ['ISC', 'MIT', 'Apache 2.0', 'Boost 1.0','GPL 3.0'],
+        choices: ['ISC', 'MIT', 'Apache 2.0', 'Boost 1.0','GPL 3.0','None'],
     }]);
 };
 

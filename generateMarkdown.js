@@ -63,11 +63,11 @@ ${data.report}
 ## License
 ${renderLicenseSection(data.licenses)}
   
-## Questions
-Please trough GitHub:
-GitHub Profile https://github.com/${data.github}
+## Questions a
+Add an issue through GitHub:
+ https://github.com/${data.github}
   
-Or using my email address:
+Or using email:
 Email: ${data.email}
 
 `;
