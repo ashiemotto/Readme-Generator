@@ -41,6 +41,6 @@ Add an issue through GitHub:
 Or using email:
 Email: ashheadley@gmail.com
 
-heres a video tutorial https://drive.google.com/file/d/1SJuznIl5uldo9XdV9LqNmfY53klT-9wJ/view
+heres a video tutorial https://drive.google.com/file/d/1VdJ_pYGXvT9Vg1oTjXQxB-byirFN58dk/view?usp=sharing
 
-finished project https://drive.google.com/file/d/1Vq8kelRDmTaBe-hqYyK1yXTj7XEz7BTU/view
+finished project https://drive.google.com/file/d/1_k6Z-ciK_NZ5KB3YaNHILjcL8qbHD_bc/view?usp=sharing
